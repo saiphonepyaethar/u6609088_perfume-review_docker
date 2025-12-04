@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Next.js build
+.next/
+
+# Env
+.env
+
+# Docker volumes
+mysql_data/
+
+# OS junk
+.DS_Store
+Thumbs.db
